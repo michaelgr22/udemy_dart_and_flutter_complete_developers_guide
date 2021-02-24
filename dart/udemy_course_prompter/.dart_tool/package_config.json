@@ -1,0 +1,13 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_mgr",
+      "rootUri": "../",
+      "packageUri": "lib/"
+    }
+  ],
+  "generated": "2021-02-23T15:17:24.323734Z",
+  "generator": "pub",
+  "generatorVersion": "2.10.5"
+}

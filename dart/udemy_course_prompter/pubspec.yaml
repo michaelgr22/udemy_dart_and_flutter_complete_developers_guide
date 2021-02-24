@@ -1,0 +1,6 @@
+name: prompter_mgr
+version: 0.0.1
+description: Library to create CLI wizards
+homepage: https://de.imgbb.com/
+environment: 
+  sdk: '<3.0.0'
